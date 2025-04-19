@@ -1,5 +1,5 @@
 <template>
-    <div class="min-h-screen bg-white p-4 flex flex-col justify-between">
+    <div class="min-h-screen bg-white p-4 flex flex-col justify-between max-w-sm">
       <div>
         <div class="flex items-center mb-6">
             <font-awesome-icon :icon="['fas', 'chevron-left']" class="text-xl text-gray-600 mr-2" />

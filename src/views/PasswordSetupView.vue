@@ -1,5 +1,5 @@
 <template>
-    <div class="min-h-screen bg-white p-4 flex flex-col">
+    <div class="min-h-screen bg-white p-4 flex flex-col max-w-sm">
       <!-- Go Back Icon and Title -->
       <div class="flex items-center mb-6">
         <font-awesome-icon :icon="['fas', 'chevron-left']" class="text-xl text-gray-600 mr-2" />
